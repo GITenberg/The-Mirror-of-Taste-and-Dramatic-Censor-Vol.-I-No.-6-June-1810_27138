@@ -1,0 +1,27 @@
+_repo: The-Mirror-of-Taste-and-Dramatic-Censor-Vol.-I-No.-6-June-1810_27138
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Carpenter, S. C. (Stephen Cullen)
+    alias: Carpenter, Stephen Cullen
+    gutenberg_agent_id: '25354'
+    url: http://www.gutenberg.org/2009/agents/25354
+description: ''
+gutenberg_bookshelf: The Mirror of Taste, and Dramatic Censor
+gutenberg_issued: '2008-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27138'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theater -- Periodicals'
+- !lcc 'AP'
+- !lcsh 'Drama -- Periodicals'
+title: The Mirror of Taste, and Dramatic Censor, Vol. I, No. 6, June 1810
+url: http://www.gutenberg.org/ebooks/27138
